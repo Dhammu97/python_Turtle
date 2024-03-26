@@ -1,4 +1,5 @@
 import colorgram
+"""Download colorgram package"""
 import random
 import turtle as t
 
